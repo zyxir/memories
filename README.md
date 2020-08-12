@@ -4,6 +4,11 @@
 
 本页面完全原创，内容受[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/)保护。
 
+**目录**
+
+- [`2020-08-04` 那个路口](#2020-08-04-那个路口)
+- [`2020-08-12` 一本会议指南](#2020-08-12-一本会议指南)
+
 ## `2020-08-04` 那个路口
 
 ![IMG_20200804_165344.jpg](https://i.loli.net/2020/08/12/TGh2AXbetLdYnaI.jpg)
@@ -15,8 +20,8 @@
 
 ## `2020-08-12` 一本会议指南
 
-![IMG_20200812_125312.jpg](https://i.loli.net/2020/08/12/GwNUh8RsOdA3cqi.jpg)
 ![IMG_20200812_125056.jpg](https://i.loli.net/2020/08/12/MDQrv4OBRnAUl8H.jpg)
 ![IMG_20200812_125204.jpg](https://i.loli.net/2020/08/12/QcKmPgeFRh53tsf.jpg)
+![IMG_20200812_125312.jpg](https://i.loli.net/2020/08/12/GwNUh8RsOdA3cqi.jpg)
 
 这是我第一次出差参加大型会议的会议指南，一直舍不得扔。是时候让它仅仅存在于记忆中了！作为唯一的一个本科生还是挺激动的。
