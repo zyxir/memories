@@ -34,4 +34,6 @@
 ![IMG_20200812_124950.jpg](https://i.loli.net/2020/08/12/VxfBwFhRM1SXEyL.jpg)
 ![IMG_20200812_124941.jpg](https://i.loli.net/2020/08/12/tKlXiB8xeyqHajG.jpg)
 
-我的第一次飞行，第一次冲动，第一次勇敢。
+第一次飞上云霄。第一次迈出勇敢的步子。
+
+过去的感动，给生活留下了不可磨灭的痕迹。
