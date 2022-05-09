@@ -5,8 +5,8 @@
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [~2022-05-08~ 貓咖之行](#2022-05-08-貓咖之行)
-- [~2022-05-07~ 久別重逢](#2022-05-07-久別重逢)
+- [`2022-05-08` 貓咖之行](#2022-05-08-貓咖之行)
+- [`2022-05-07` 久別重逢](#2022-05-07-久別重逢)
 
 <!-- markdown-toc end -->
 
