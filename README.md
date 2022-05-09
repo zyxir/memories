@@ -1,39 +1,30 @@
-[回到 Zyxiria 首页](https://zyxir.github.io)
+這個頁面存放着美好的回憶。
 
-这是一个矫情的 Timeline，记录着我生活中发现的带着回忆与历史的小物。Github Pages 提供的 [time machine](https://github.com/pages-themes/time-machine) 主题，与此页面的中心内容不谋而合。
+本頁面內容完全原創，使用的是 GitHub Pages 提供的 [time machine](https://github.com/pages-themes/time-machine) 主題。本頁面內容受 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) 許可證保護。
 
-本页面完全原创，内容受[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/)保护。
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
 
-**目录**
+- [~2022-05-08~ 貓咖之行](#2022-05-08-貓咖之行)
+- [~2022-05-07~ 久別重逢](#2022-05-07-久別重逢)
 
-- [`2020-08-04` 那个路口](#2020-08-04-那个路口)
-- [`2020-08-12` 一本会议指南](#2020-08-12-一本会议指南)
-- [`2020-08-12` 两张机票](#2020-08-12-两张机票)
+<!-- markdown-toc end -->
 
-## `2020-08-04` 那个路口
+## ~2022-05-08~ 貓咖之行
 
-![IMG_20200804_165344.jpg](https://i.loli.net/2020/08/12/TGh2AXbetLdYnaI.jpg)
-![IMG_20200804_165329.jpg](https://i.loli.net/2020/08/12/F8lPy2ikRxXsMJK.jpg)
+一起去了貓咖~
 
-摄于坐标 (31.85, 117.13)
+![](gallery/2022-05-07/1.jpg)
+![](gallery/2022-05-07/2.jpg)
+![](gallery/2022-05-07/3.jpg)
+![](gallery/2022-05-07/4.jpg)
 
-这个路口，承载着我的很多回忆。它见证了我的两次成长。它见证了我的一次失去。它见证了我的许多日汗水。
+## ~2022-05-07~ 久別重逢
 
-## `2020-08-12` 一本会议指南
+封校結束啦，我們又能見面了！
 
-![IMG_20200812_125056.jpg](https://i.loli.net/2020/08/12/MDQrv4OBRnAUl8H.jpg)
-![IMG_20200812_125204.jpg](https://i.loli.net/2020/08/12/QcKmPgeFRh53tsf.jpg)
-![IMG_20200812_125312.jpg](https://i.loli.net/2020/08/12/GwNUh8RsOdA3cqi.jpg)
-
-这是我第一次出差参加大型会议的会议指南，一直舍不得扔。是时候让它仅仅存在于记忆中了！
-
-这次会议，我作为唯一的一个参会的本科生，还是挺荣幸的。这次还见到了在武汉上学的 SG、WXM 和 DD。
-
-## `2020-08-12` 两张机票
-
-![IMG_20200812_124950.jpg](https://i.loli.net/2020/08/12/VxfBwFhRM1SXEyL.jpg)
-![IMG_20200812_124941.jpg](https://i.loli.net/2020/08/12/tKlXiB8xeyqHajG.jpg)
-
-第一次飞上云霄。第一次迈出勇敢的步子。
-
-过去的感动，给生活留下了不可磨灭的痕迹。
+![](gallery/2022-05-07/1.jpg)
+![](gallery/2022-05-07/2.jpg)
+![](gallery/2022-05-07/3.jpg)
+![](gallery/2022-05-07/4.jpg)
+![](gallery/2022-05-07/5.jpg)
